@@ -46,3 +46,5 @@ License
 These data are being publicly shared under the terms of the Creative Commons
 Attribution license (v4.0; http://creativecommons.org/licenses/by/4.0/). If
 you make use of these data, please cite the paper.
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11507.png)](http://dx.doi.org/10.5281/zenodo.11507)
